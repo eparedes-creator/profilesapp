@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\amplify",
+    "\\amplify\\auth",
+    "\\amplify\\auth\\post-confirmation",
+    "\\amplify\\data",
+    "\\src"
+  ],
+  "SelectedNode": "\\package-lock.json",
+  "PreviewInSolutionExplorer": false
+}
